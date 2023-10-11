@@ -1,6 +1,5 @@
 <h1>Hola , Soy Danny Crisostomo</h1> 
 
- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <p align="center">
 </p>
 
