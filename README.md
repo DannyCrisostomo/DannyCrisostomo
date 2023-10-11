@@ -1,4 +1,4 @@
-<div align="center" style="font-size: 24px;"><b>Hola , Soy Danny Crisostomo </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></div>
+<div align="center"><b>Hola , Soy Danny Crisostomo </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></div>
 
 <div align="center">
 <p align="center">
