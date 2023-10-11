@@ -1,9 +1,16 @@
 <h1 align="center"><b>Hola , Soy Danny Crisostomo </b></h1>
 
 <!--- snake -->
-<div align="center">
-  ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
-</div>
+<p align="center">
+<a href="https://twitter.com/apoorv__tyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="20" width="20" /></a>&nbsp;
+<a href="https://linkedin.com/in/apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="20" width="20" /></a>&nbsp;
+<a href="https://hashnode.com/@apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="apoorvtyagi" height="20" width="20" /></a>
+<a href="https://www.buymeacoffee.com/apoorvtyagi"><img align="center" alt="Buy me a Coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
+</p>
+
+![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+
+
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre Mi**
 Actualmente estoy enfocado en mis estudios de Ingeniería de Software.<br><br>Mi búsqueda constante de la excelencia y mi incansable sed de conocimiento me han llevado a explorar diversos lenguajes de programación, marcos de trabajo y proyectos emocionantes. Mi principal objetivo es aportar de manera significativa a proyectos desafiantes y estimulantes. Me emociona la oportunidad de trabajar en equipo y colaborar con mentes brillantes para crear soluciones innovadoras.<br><br>Estoy entusiasmado por las futuras oportunidades y preparado para sumergirme en proyectos apasionantes. Si buscas a alguien comprometido con la excelencia y dispuesto a abordar desafíos, no dudes en contactarme. Estoy ansioso por contribuir al éxito de tu equipo y ser parte de proyectos que marquen la diferencia en el mundo del software.<br><br>¡Espero con interés la posibilidad de colaborar y crear algo extraordinario juntos!
