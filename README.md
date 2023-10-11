@@ -1,5 +1,10 @@
 <h1 align="center"><b>Hola , Soy Danny Crisostomo </b>></h1>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+
+
 # 💫 Sobre Mi:
 Actualmente estoy enfocado en mis estudios de Ingeniería de Software.<br><br>Mi búsqueda constante de la excelencia y mi incansable sed de conocimiento me han llevado a explorar diversos lenguajes de programación, marcos de trabajo y proyectos emocionantes. Mi principal objetivo es aportar de manera significativa a proyectos desafiantes y estimulantes. Me emociona la oportunidad de trabajar en equipo y colaborar con mentes brillantes para crear soluciones innovadoras.<br><br>Estoy entusiasmado por las futuras oportunidades y preparado para sumergirme en proyectos apasionantes. Si buscas a alguien comprometido con la excelencia y dispuesto a abordar desafíos, no dudes en contactarme. Estoy ansioso por contribuir al éxito de tu equipo y ser parte de proyectos que marquen la diferencia en el mundo del software.<br><br>¡Espero con interés la posibilidad de colaborar y crear algo extraordinario juntos!
 
