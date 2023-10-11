@@ -44,14 +44,16 @@ Actualmente estoy enfocado en mis estudios de Ingeniería de Software.<br><br>Mi
 # Conéctate conmigo🤝
 
 
-<!--icons and links-->
+<!--iconos y links-->
 <a href="https://www.linkedin.com/in/danny-crisostomo/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BONVEiTJLQceK84u%2FRqiwWA%3D%3D" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
 
 <!--profile visit count-->
 <div align="center">
+  
 [![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+  
 </div>
 
-<!--horizontal divider(gradiant)-->
+<!--GIF-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
