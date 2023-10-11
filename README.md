@@ -1,5 +1,11 @@
 <h1 align="center"><b>Hola , Soy Danny Crisostomo </b></h1>
 
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre Mi**
 Actualmente estoy enfocado en mis estudios de Ingeniería de Software.<br><br>Mi búsqueda constante de la excelencia y mi incansable sed de conocimiento me han llevado a explorar diversos lenguajes de programación, marcos de trabajo y proyectos emocionantes. Mi principal objetivo es aportar de manera significativa a proyectos desafiantes y estimulantes. Me emociona la oportunidad de trabajar en equipo y colaborar con mentes brillantes para crear soluciones innovadoras.<br><br>Estoy entusiasmado por las futuras oportunidades y preparado para sumergirme en proyectos apasionantes. Si buscas a alguien comprometido con la excelencia y dispuesto a abordar desafíos, no dudes en contactarme. Estoy ansioso por contribuir al éxito de tu equipo y ser parte de proyectos que marquen la diferencia en el mundo del software.<br><br>¡Espero con interés la posibilidad de colaborar y crear algo extraordinario juntos!
 
