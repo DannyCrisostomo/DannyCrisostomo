@@ -39,7 +39,7 @@ Actualmente estoy enfocado en mis estudios de Ingeniería de Software.<br><br>Mi
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# Comunicame conmigo🤝
+# Comunícate conmigo🤝
 
 
 <!--iconos y links-->
