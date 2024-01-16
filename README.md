@@ -8,6 +8,16 @@ Actualmente estoy enfocado en mis estudios de Ingeniería de Software.<br><br>Mi
 
 
 # 💻 Kit de Desarrollo Multifuncional:
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## Languages & Tools I Have Utilized <br />
+ I have spent a lot of time with Frontend in a teaching capacity. I try to showcase ways for beginners to really take advantage of frontend techniques but I feel my real strength is in backend. <br /> <br /><!-- 
+Most Used Languages Infograph then Tools & Languages--> 
+ <a href="https://github.com/DannyCrisostomo">
+  <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DannyCrisostomo&layout=compact&theme=react" alt="Top languages" />
+</a>
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -37,21 +47,10 @@ Actualmente estoy enfocado en mis estudios de Ingeniería de Software.<br><br>Mi
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Languages & Tools I Have Utilized <br />
- I have spent a lot of time with Frontend in a teaching capacity. I try to showcase ways for beginners to really take advantage of frontend techniques but I feel my real strength is in backend. <br /> <br /><!-- 
-Most Used Languages Infograph then Tools & Languages--> 
- <a href="https://github.com/DannyCrisostomo">
-  <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DannyCrisostomo&layout=compact&theme=react" alt="Top languages" />
-</a>
-
-
-<!--iconos y links-->
-<!--profile visit count-->
 <div align="center">
 <a href="https://www.linkedin.com/in/danny-crisostomo/"><img alt="Linkedin" src="https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=Linkedin&message=5&color=blue">&nbsp;<br />
 </div>
- ___
+
 <!--GIF-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
