@@ -48,10 +48,12 @@ Actualmente estoy enfocado en mis estudios de Ingeniería de Software.<br><br>Mi
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="blank">
+  <a href="https://www.linkedin.com/in/danny-crisostomo/" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="linkedin" height="50" width="50" />
   </a> 
 </p>
+
+</a><a href="https://www.linkedin.com/in/dthompsondev/"><img alt="Linkedin" src="https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=Linkedin&message=71k&color=blue">&nbsp;<br />
 
 <!--profile visit count-->
 <div align="center">
