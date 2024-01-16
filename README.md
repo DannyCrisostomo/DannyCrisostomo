@@ -45,7 +45,7 @@ Actualmente estoy enfocado en mis estudios de Ingeniería de Software.<br><br>Mi
 <!--iconos y links-->
 <!--profile visit count-->
 <div align="center">
-<a href="https://www.linkedin.com/in/danny-crisostomo/"><img alt="Linkedin" src="https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=Linkedin&message=71k&color=blue">&nbsp;<br />
+<a href="https://www.linkedin.com/in/danny-crisostomo/"><img alt="Linkedin" src="https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=Linkedin&message=5&color=blue">&nbsp;<br />
 </div>
 
 <!--GIF-->
