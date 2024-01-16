@@ -42,8 +42,8 @@ Actualmente estoy enfocado en mis estudios de Ingeniería de Software.<br><br>Mi
 ## Languages & Tools I Have Utilized <br />
  I have spent a lot of time with Frontend in a teaching capacity. I try to showcase ways for beginners to really take advantage of frontend techniques but I feel my real strength is in backend. <br /> <br /><!-- 
 Most Used Languages Infograph then Tools & Languages--> 
- <a href="https://github.com/dannythompson901">
-  <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannythompson901&layout=compact&theme=react" alt="Top languages" />
+ <a href="https://github.com/DannyCrisostomo">
+  <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DannyCrisostomo&layout=compact&theme=react" alt="Top languages" />
 </a>
 
 
