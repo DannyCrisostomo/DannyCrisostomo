@@ -49,7 +49,7 @@ Actualmente estoy enfocado en mis estudios de Ingeniería de Software.<br><br>Mi
 <!--profile visit count-->
 <div align="center">
   
-[![](https://img.shields.io/badge/LinkedIn-YourName-blue)](https://www.linkedin.com/in/your-name/)
+[![](https://img.shields.io/badge/LinkedIn-YourName-blue)](https://www.linkedin.com/in/Danny-Crisostomo/)
   
 </div>
 
