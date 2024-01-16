@@ -54,5 +54,3 @@ Most Used Languages Infograph then Tools & Languages-->
 <a href="https://www.linkedin.com/in/danny-crisostomo/"><img alt="Linkedin" src="https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=Linkedin&message=5&color=blue">&nbsp;<br />
 </div>
 
-<!--GIF-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
