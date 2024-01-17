@@ -11,10 +11,12 @@ Actualmente estoy enfocado en mis estudios de Ingeniería de Software.<br><br>Mi
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Most Used Languages Infograph then Tools & Languages--> 
+
  <a href="https://github.com/DannyCrisostomo">
   <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DannyCrisostomo&layout=compact&theme=react" alt="Top languages" />
 </a>
+"Kit de Desarrollo Multifuncional: Este conjunto abarca una variedad de herramientas y lenguajes que utilizo en mi flujo de trabajo de desarrollo. Desde frameworks de programación hasta herramientas de diseño gráfico, estas son las piezas clave que forman parte de mi conjunto de herramientas para crear soluciones multifacéticas y efectivas."
+
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
