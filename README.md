@@ -45,7 +45,6 @@ Actualmente estoy enfocado en mis estudios de Ingeniería de Software.<br><br>Mi
  
 </div>
  
-![Html](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=html&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
