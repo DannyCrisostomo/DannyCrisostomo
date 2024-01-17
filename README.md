@@ -27,7 +27,8 @@ Actualmente estoy enfocado en mis estudios de Ingeniería de Software.<br><br>Mi
  <img style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  <img style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
  <img style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
- <i style="height:50px" class="devicon-microsoftsqlserver-plain-wordmark"></i>
+ <img style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+          
           
           
           
