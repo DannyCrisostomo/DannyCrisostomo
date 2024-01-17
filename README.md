@@ -16,7 +16,7 @@ Actualmente estoy enfocado en mis estudios de Ingeniería de Software.<br><br>Mi
   <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DannyCrisostomo&layout=compact&theme=react" alt="Top languages" />
 </a>
 
-<div stylr="display:flex">
+<div>
  <img style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
  <img style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
  <img style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
