@@ -13,7 +13,7 @@ Actualmente estoy enfocado en mis estudios de Ingeniería de Software.<br><br>Mi
 
 
  <a href="https://github.com/DannyCrisostomo">
-  <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DannyCrisostomo&layout=compact&theme=react" alt="Top languages" />
+  <img align="right" width="550" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DannyCrisostomo&layout=compact&theme=react" alt="Top languages" />
 </a>
 
 <div align="center">
